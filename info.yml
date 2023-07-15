@@ -1,0 +1,12 @@
+project:
+  name: 'Blue Sum Testing'
+  owner: 'CS169A-23'
+  teamId: '789'
+  identities:
+    github:
+      url: 'https://github.com/raffrearaUS/bluesumtesting.git'
+  members:
+    member1:
+      name: 'Rtest'
+      surname: 'Ftester' 
+      githubUsername: 'raffrearaUS'
