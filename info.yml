@@ -5,6 +5,8 @@ project:
   identities:
     github:
       url: 'https://github.com/raffrearaUS/bluesumtesting.git'
+    notifications:
+      slack_enc: U2FsdGVkX1/p4mPezhdEGmIYaRheAb+Bmz8s75SjvgjyVTIMZpVOPE2pqL5wsbqL51TyWPBbcZGjN28meiab8h4RGUZthTswY0t7VCTP5OzEDkIDD9iP2YmUe5nkvmwi
   members:
     member1:
       name: 'Rtest'
