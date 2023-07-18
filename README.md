@@ -2,4 +2,4 @@
 
 # bluesumtesting
 
-This is a testing project.
+This is a testing project. We are fixing a bug.
